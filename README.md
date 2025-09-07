@@ -48,8 +48,5 @@ The Excel file contains four main sheets:
 ## 🛠️ Tools Used
 
 * **Microsoft Excel** – Data cleaning, pivot tables, and dashboard design.
-* *(Optional extensions: Python, Power BI, Tableau)*
 
 ---
-
-تحبي أضيفلك كمان **كود Python بسيط** (pandas + matplotlib) يقرأ نفس ملف الـ Excel ويعمل Visualization عشان يبقى البروجيكت أقوى؟
